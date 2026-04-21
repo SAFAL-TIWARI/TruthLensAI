@@ -32,8 +32,8 @@ TruthLens AI is a modern, production-ready web application designed for a hackat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SAFAL-TIWARI/promptwars-virtual.git
-   cd promptwars-virtual
+   git clone https://github.com/SAFAL-TIWARI/TruthLensAI.git
+   cd TruthLensAI
    ```
 
 2. Install dependencies:
